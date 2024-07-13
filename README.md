@@ -3,12 +3,12 @@
 
 
 ## Description
-Transformed an existing Express.js API for an e-commerce site to use Sequelize for database interactions with MySQL. 
 
+API for a social network that leverages a NoSQL database to handle large volumes of unstructured data. Upon invoking the application, the server starts, and Mongoose models are synchronized with the MongoDB database. This allows for the successful creation of users, creation and deletion of reactions to thoughts, and the ability to add or remove friends from a user's friend list.
 
 
 ## Features
-MongoDB,JavaScript,npm packages,node
+MongoDB,JavaScript,npm packages,node,insominia
 
 ## Credits
 All corrections are made by me,yourvza
@@ -18,6 +18,6 @@ All corrections are made by me,yourvza
 Please refer to the LICENSE in the repo
 
 ## Link
-
+https://github.com/yourvza/MySocialAPI
 
   
